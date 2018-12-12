@@ -1,1 +1,1 @@
-# TestProjectDemo
+# KatalonTestProjectDemo
